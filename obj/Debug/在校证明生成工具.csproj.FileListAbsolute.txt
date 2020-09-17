@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\在校证明生成工具\在校证明生成工具\bin\Debug\在校证明生成工具.exe.config
+C:\Users\Administrator\Desktop\在校证明生成工具\在校证明生成工具\obj\Debug\在校证明生成工具.exe
+C:\Users\Administrator\Desktop\在校证明生成工具\在校证明生成工具\obj\Debug\在校证明生成工具.pdb
+C:\Users\Administrator\Desktop\在校证明生成工具\在校证明生成工具\bin\Debug\在校证明生成工具.exe
+C:\Users\Administrator\Desktop\在校证明生成工具\在校证明生成工具\bin\Debug\在校证明生成工具.pdb
+C:\Users\Administrator\Desktop\在校证明生成工具\在校证明生成工具\obj\Debug\在校证明生成工具.Form1.resources
+C:\Users\Administrator\Desktop\在校证明生成工具\在校证明生成工具\obj\Debug\在校证明生成工具.Properties.Resources.resources
+C:\Users\Administrator\Desktop\在校证明生成工具\在校证明生成工具\obj\Debug\在校证明生成工具.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\在校证明生成工具\在校证明生成工具\obj\Debug\在校证明生成工具.csprojResolveAssemblyReference.cache
